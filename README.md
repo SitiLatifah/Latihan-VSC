@@ -95,6 +95,7 @@ $ cd latihan1``
 * Anda harus membuat akun terlebih dahulu.
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
+![1](https://user-images.githubusercontent.com/73010098/96369029-c34d2b80-1181-11eb-9b5f-5590efb001e3.png)
 
 
 
