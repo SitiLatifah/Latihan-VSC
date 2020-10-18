@@ -21,8 +21,7 @@ Kelas : TI 20.A2
 
 ``git --version``
 
-![20201016_163410 1](https://user-images.githubusercontent.com/66506609/96243082-71b06f80-0fce-11eb-9a03-940defed1612.png)
-
+![2](https://user-images.githubusercontent.com/73010098/96368654-3b662200-117f-11eb-9d9d-e8572e4842cd.png)
 
 ### Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi ``user.name dan user.email``
@@ -35,8 +34,8 @@ Kelas : TI 20.A2
 `$ git config --global user.name “nama_user"`
 
 `$ git config --global user.email “nama_user”`
+![3](https://user-images.githubusercontent.com/73010098/96368695-7cf6cd00-117f-11eb-8a3d-525adf5e31f8.png)
 
-![20201016_163452 1](https://user-images.githubusercontent.com/66506609/96243249-a8868580-0fce-11eb-954a-39270ac9c26c.png)
 
 ### Perintah Dasar Git
 
@@ -83,8 +82,7 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
-
+![4](https://user-images.githubusercontent.com/73010098/96368712-9a2b9b80-117f-11eb-944e-b0e8b6fb31dc.png)
 
 ### `Commit` (Menyimpan perubahan ke database)
 
@@ -92,17 +90,12 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](https://user-images.githubusercontent.com/66506609/96244442-43339400-0fd0-11eb-8fdb-45032a8ec449.png)
-
-
-### Membuat repository server
-
+![5](https://user-images.githubusercontent.com/73010098/96368722-b8919700-117f-11eb-9197-99b2362f2430.png)
 * Server reopsitory yang akan kita gunakan adalah (http://github.com)
 * Anda harus membuat akun terlebih dahulu.
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (39)](https://user-images.githubusercontent.com/66506609/95936476-da95bd00-0dff-11eb-826d-c7b34e2c45fc.png)
 
 
 ### Membuat repository server
