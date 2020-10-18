@@ -117,15 +117,12 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
-
-
-### Melihat hasilnya pada server repository
-
+![4](https://user-images.githubusercontent.com/73010098/96368881-c09e0680-1180-11eb-8e10-b61bc7572daf.png)
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (41)](https://user-images.githubusercontent.com/66506609/95936958-eafa6780-0e00-11eb-85fa-262b7f92ef40.png)
+![7](https://user-images.githubusercontent.com/73010098/96368795-4e2d2680-1180-11eb-8471-b29c9da58799.png)
+
 
 
 ### Clone Repository
@@ -133,8 +130,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (59)](https://user-images.githubusercontent.com/66506609/96254417-76c9ea80-0fdf-11eb-8af2-15adba4f4c33.png)
-
+![8](https://user-images.githubusercontent.com/73010098/96368959-31452300-1181-11eb-983c-f38ec11f48d5.png)
 ### Kegunaan file README.md
 
 * Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
@@ -144,4 +140,4 @@ $ cd latihan1``
 
 
 
-### Author : Muhammad Rizky Abdillah
+### Author : Siti Latifah
